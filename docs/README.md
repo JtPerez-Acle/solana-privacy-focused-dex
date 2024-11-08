@@ -1,3 +1,5 @@
+# --------! PROJECT UNDER DEVELOPMENT !--------
+
 # Privacy-Focused DEX on Solana
 
 ## Building the Project
