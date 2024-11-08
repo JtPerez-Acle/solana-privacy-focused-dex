@@ -47,7 +47,7 @@ cd privacy-dex
 
 ---
 
-### 6. Next Steps
+### Next Steps
 
 **Implement Core Functionality:**
 
@@ -66,7 +66,7 @@ cd privacy-dex
 
 
 
-### 10. Conclusion
+### Conclusion
 
 By starting to implement the core functionalities and setting up testing, we ensure that our development aligns with the best practices outlined in `global.md`. Early testing facilitates:
 
