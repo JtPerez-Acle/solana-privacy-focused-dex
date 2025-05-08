@@ -41,7 +41,7 @@ To run unit tests for the smart contracts, execute:
 Ensure all prerequisites are installed. Clone the repository and navigate to the project directory.
 
 ```bash
-git clone https://github.com/yourusername/privacy-dex.git
+git clone https://github.com/JtPerez-Acle/privacy-dex.git
 cd privacy-dex
 ```
 
